@@ -2,7 +2,7 @@
 
 read my [blog](https://skovati.dev)
 
-[email](mailto:skovati@protonmail.com) me a [gpg](https://gpg.skovati.dev) encrypted message
+[email](mailto:mail@skovati.dev) me a [pgp](https://skovati.dev/pgp/) encrypted message
 
 <div>
   <img height="190" align="left" src="https://github-readme-stats.vercel.app/api?username=skovati&count_private=true&include_all_commits=true&bg_color=00000000&border_radius=0&title_color=76ab97&text_color=e8e4d9" />
